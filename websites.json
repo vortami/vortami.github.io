@@ -1,0 +1,17 @@
+[
+	{
+		"icon": "https://vortami.web.app/favicon.ico",
+		"href": "https://vortami.web.app"
+	},
+	{
+		"title": "My Emotes",
+		"icon": "https://vortami.github.io/emotes/favicon.ico",
+		"href": "https://vortami.github.io/emotes"
+	},
+	{
+		"title": "The Purrramid",
+		"icon": "https://purrramid.github.io/icon.png",
+		"href": "https://purrramid.github.io"
+	}
+]
+
